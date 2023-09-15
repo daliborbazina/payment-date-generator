@@ -1,0 +1,14 @@
+{
+  "name": "bazina/dalibor-code-example",
+  "require": {
+    "php": "^8.1",
+    "ext-dom": "*",
+    "ext-mbstring": "*",
+    "ext-xml": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
